@@ -19,6 +19,9 @@ include("bicgstabl.jl")
 #MINRES
 include("minres.jl")
 
+#MINRES QLP
+include("minresqlp.jl")
+
 #GMRES
 include("gmres.jl")
 
